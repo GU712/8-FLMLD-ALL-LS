@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FWHJmXC/filmes-SERV3.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name="Vilões" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nFDevg9HeRftVxGGkvriABJO2VF.jpg" ,[COLOR orange][B]lLANÇAMENTOS [COLOR yellow] -> [COLOR white]Vilões[/B][/COLOR]
 http://tbsrv.me:8880/movie/flavia2021/2021flavia/167790.mp4
