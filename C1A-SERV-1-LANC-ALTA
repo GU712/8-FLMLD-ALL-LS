@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLV9Zxz/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
+
+#EXTINF:-1 tvg-logo="" ,[COLOR orange][B] LANÇAMENTOS [COLOR yellow]-> [COLOR white]Luccas Neto em - O Hotel Mágico[/B][/COLOR]
+http://sv1.nowiptv.net:8880/movie/ACML2/756498630968KHg/49549.mp4
+#EXTINF:-1 tvg-logo="" ,[COLOR orange][B] LANÇAMENTOS [COLOR yellow]-> [COLOR white]Luccas Neto em - O Hotel Mágico 2[/B][/COLOR]
+http://sv1.nowiptv.net:8880/movie/ACML2/756498630968KHg/104586.mp4
 #EXTINF:-1 tvg-logo="http://i.img8.xyz:8880/images/282deac1665725efad3f631b3b6ebae1.jpg" ,[COLOR orange][B] LANÇAMENTOS [COLOR yellow]-> [COLOR white]A Lenda de Candyman [LEG][/B][/COLOR]
 http://sv1.nowiptv.net:8880/movie/ACML2/756498630968KHg/101582.mp4
 #EXTINF:-1 tvg-logo="http://i.img8.xyz:8880/images/282deac1665725efad3f631b3b6ebae1.jpg" ,[COLOR orange][B] CINEMA [COLOR yellow]-> [COLOR white]A Lenda de Candyman (CAM)[/B][/COLOR]
