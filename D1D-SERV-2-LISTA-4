@@ -1782,7 +1782,7 @@ http://b5.vc:80/movie/edigar/102030/69907.mp4
 http://b5.vc:80/movie/edigar/102030/20449.mp4
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/cf58508272a8c3e30ff876ea41572951.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Comedia [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Sing 2[/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/150717.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="Filmes | Cinema",Sing 2 [Cinema][/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Cinema [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Sing 2 [Cinema][/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/146794.mp4
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/cf58508272a8c3e30ff876ea41572951.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Legendados [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Sing 2 [L][/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/150702.mp4
@@ -4762,3 +4762,4 @@ http://b5.vc:80/movie/edigar/102030/144883.mp4
 http://b5.vc:80/movie/edigar/102030/144886.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3d1zM5Wvb00vnI8KmiVGYTJHW0.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Legendados [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Um Reencontro Natalino [L][/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/144877.mp4
+
