@@ -90,7 +90,7 @@ http://b5.vc:80/movie/edigar/102030/21247.mp4
 http://b5.vc:80/movie/edigar/102030/24705.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Terror [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Maligno[/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/132476.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="Filmes | Cinema",Maligno [Cinema][/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Cinema [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Maligno [Cinema][/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/140728.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Legendados [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Maligno [L][/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/128585.mp4
@@ -820,7 +820,7 @@ http://b5.vc:80/movie/edigar/102030/105065.mp4
 http://b5.vc:80/movie/edigar/102030/20393.mp4
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/f38e150f7c9fe053e17e62e5d5e41aa1.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Animacao [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Monstros vs Alienígenas[/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/152009.mp4
-#EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/992a6da63d39051148f4d7ee3f497291.jpg" group-title="Filmes | Cinema",Moonfall - Ameaça Lunar [Cinema][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/992a6da63d39051148f4d7ee3f497291.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Cinema [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Moonfall - Ameaça Lunar [Cinema][/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/150721.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilNXSi7ENjoiZh9hNIpUbjlZE6J.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Terror [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Morgan: A Evolução[/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/141508.mp4
@@ -2406,8 +2406,6 @@ http://b5.vc:80/movie/edigar/102030/136781.mp4
 http://b5.vc:80/movie/edigar/102030/136759.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/bBVZxrx9DA9dqIb1CzgmHoZxuJt_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Romance [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Lado Bom da Vida[/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/26390.mp4
-#EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/9c3a4960117b690f41e46c90b7b54d68.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Terror [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Lago da Mort‪e‬[/B][/COLOR]
-http://b5.vc:80/movie/edigar/102030/101359.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/k9AKtgRErXjz14lFHL2IJVCgwOT_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Terror [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Lamento[/B][/COLOR]
 http://b5.vc:80/movie/edigar/102030/101404.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/qFhaNRu7ZBKT6Iy7NY0prJmIwaK_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Fantasia [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Lar das Criancas Peculiares[/B][/COLOR]
